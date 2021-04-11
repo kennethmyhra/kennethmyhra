@@ -1,5 +1,9 @@
 ### 👋
 
+- 🔭 I’m currently working on:
+  - The Spark FHIR Server https://github.com/firelyteam/spark
+  - Messaging library used by the Norwegian Health Sector https://github.com/helsenorge/helsenorge.messaging
+
 <!--
 **kennethmyhra/kennethmyhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
